@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,-z,noexecstack CMakeFiles/dump_alg_info.dir/dump_alg_info.c.o -o dump_alg_info  ../lib/liboqs.a ../lib/liboqs-internal.a -lm 

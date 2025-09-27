@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,-z,noexecstack CMakeFiles/speed_common.dir/speed_common.c.o -o speed_common  ../lib/liboqs.a ../lib/liboqs-internal.a -lm 

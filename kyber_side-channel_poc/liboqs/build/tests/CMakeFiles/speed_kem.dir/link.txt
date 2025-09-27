@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,-z,noexecstack CMakeFiles/speed_kem.dir/speed_kem.c.o -o speed_kem  ../lib/liboqs.a ../lib/liboqs-internal.a -lm 

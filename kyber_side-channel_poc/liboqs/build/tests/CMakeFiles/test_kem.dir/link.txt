@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,-z,noexecstack CMakeFiles/test_kem.dir/test_kem.c.o CMakeFiles/test_kem.dir/test_helpers.c.o -o test_kem  ../lib/liboqs.a ../lib/liboqs-internal.a -lm 

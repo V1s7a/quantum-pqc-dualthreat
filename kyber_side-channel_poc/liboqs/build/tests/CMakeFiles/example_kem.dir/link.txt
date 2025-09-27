@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,-z,noexecstack CMakeFiles/example_kem.dir/example_kem.c.o -o example_kem  ../lib/liboqs.a ../lib/liboqs-internal.a -lm 

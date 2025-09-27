@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,-z,noexecstack CMakeFiles/speed_sig_stfl.dir/speed_sig_stfl.c.o -o speed_sig_stfl  ../lib/liboqs.a ../lib/liboqs-internal.a -lm 

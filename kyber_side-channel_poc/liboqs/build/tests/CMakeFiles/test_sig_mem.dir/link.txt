@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,-z,noexecstack CMakeFiles/test_sig_mem.dir/test_sig_mem.c.o -o test_sig_mem  ../lib/liboqs.a ../lib/liboqs-internal.a -lm 

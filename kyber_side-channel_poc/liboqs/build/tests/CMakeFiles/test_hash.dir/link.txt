@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,-z,noexecstack CMakeFiles/test_hash.dir/test_hash.c.o -o test_hash  ../lib/liboqs.a ../lib/liboqs-internal.a -lm 

@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,-z,noexecstack CMakeFiles/example_sig.dir/example_sig.c.o -o example_sig  ../lib/liboqs.a ../lib/liboqs-internal.a -lm 

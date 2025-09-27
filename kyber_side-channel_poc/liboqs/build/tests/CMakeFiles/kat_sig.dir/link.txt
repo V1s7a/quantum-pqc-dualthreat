@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,-z,noexecstack CMakeFiles/kat_sig.dir/kat_sig.c.o CMakeFiles/kat_sig.dir/test_helpers.c.o -o kat_sig  ../lib/liboqs.a ../lib/liboqs-internal.a -lm 

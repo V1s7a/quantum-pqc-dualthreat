@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,-z,noexecstack CMakeFiles/vectors_kem.dir/vectors_kem.c.o -o vectors_kem  ../lib/liboqs.a ../lib/liboqs-internal.a -lm 
