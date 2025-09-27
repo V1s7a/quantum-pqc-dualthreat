@@ -6,7 +6,7 @@
 //   gcc -O2 -I../include -L. -loqs -o decap_harness ../decap_harness.c
 // Run example (from liboqs/build/):
 //   LD_LIBRARY_PATH=. ./decap_harness 20000 kyber512 > ../traces_kyber512.csv
-
+//
 
 
 #define _GNU_SOURCE
