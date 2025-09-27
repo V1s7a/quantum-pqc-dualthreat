@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+**/build/
+**/install/
+*.dylib
+*.so
+*.o
+*.a
+reports/*.tsv
+reports/*.txt
+reports/*.csv
+reports/*.png
