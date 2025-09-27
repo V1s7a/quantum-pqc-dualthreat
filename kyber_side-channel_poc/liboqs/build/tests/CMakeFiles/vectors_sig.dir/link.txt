@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,-z,noexecstack CMakeFiles/vectors_sig.dir/vectors_sig.c.o -o vectors_sig  ../lib/liboqs.a ../lib/liboqs-internal.a -lm 

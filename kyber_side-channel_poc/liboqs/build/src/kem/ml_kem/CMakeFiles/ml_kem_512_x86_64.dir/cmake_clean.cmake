@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/compress.c.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/compress.c.o.d"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/debug.c.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/debug.c.o.d"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/indcpa.c.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/indcpa.c.o.d"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/kem.c.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/kem.c.o.d"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/native/x86_64/src/basemul.S.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/native/x86_64/src/basemul.c.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/native/x86_64/src/basemul.c.o.d"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/native/x86_64/src/compress_avx2.c.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/native/x86_64/src/compress_avx2.c.o.d"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/native/x86_64/src/consts.c.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/native/x86_64/src/consts.c.o.d"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/native/x86_64/src/intt.S.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/native/x86_64/src/mulcache_compute.S.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/native/x86_64/src/ntt.S.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/native/x86_64/src/nttfrombytes.S.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/native/x86_64/src/ntttobytes.S.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/native/x86_64/src/nttunpack.S.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/native/x86_64/src/reduce.S.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/native/x86_64/src/rej_uniform_avx2.c.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/native/x86_64/src/rej_uniform_avx2.c.o.d"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/native/x86_64/src/rej_uniform_table.c.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/native/x86_64/src/rej_uniform_table.c.o.d"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/native/x86_64/src/tomont.S.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/poly.c.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/poly.c.o.d"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/poly_k.c.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/poly_k.c.o.d"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/sampling.c.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/sampling.c.o.d"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/verify.c.o"
+  "CMakeFiles/ml_kem_512_x86_64.dir/mlkem-native_ml-kem-512_x86_64/mlkem/src/verify.c.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang ASM C)
+  include(CMakeFiles/ml_kem_512_x86_64.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

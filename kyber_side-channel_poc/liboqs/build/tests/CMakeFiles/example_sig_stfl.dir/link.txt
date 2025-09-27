@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,-z,noexecstack CMakeFiles/example_sig_stfl.dir/example_sig_stfl.c.o -o example_sig_stfl  ../lib/liboqs.a ../lib/liboqs-internal.a -lm 

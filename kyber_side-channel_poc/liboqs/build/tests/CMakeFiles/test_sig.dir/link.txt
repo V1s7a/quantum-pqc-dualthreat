@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,-z,noexecstack CMakeFiles/test_sig.dir/test_sig.c.o CMakeFiles/test_sig.dir/test_helpers.c.o -o test_sig  ../lib/liboqs.a ../lib/liboqs-internal.a -lm 

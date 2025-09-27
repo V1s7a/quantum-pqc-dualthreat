@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,-z,noexecstack CMakeFiles/test_sha3.dir/test_sha3.c.o -o test_sha3  ../lib/liboqs.a ../lib/liboqs-internal.a -lm 
