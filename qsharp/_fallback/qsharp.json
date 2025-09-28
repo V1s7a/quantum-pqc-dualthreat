@@ -1,0 +1,9 @@
+{
+  "document": {
+    "include": [
+      "src/*.qs",
+      "*.qs",
+      "**/*.qs"
+    ]
+  }
+}
