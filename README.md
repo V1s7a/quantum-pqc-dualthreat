@@ -10,7 +10,6 @@ It combines **quantum algorithm simulations** with **post-quantum cryptography (
 This project is for **educational and research purposes only**.  
 All experiments were performed in controlled environments using simulated or test inputs.  
 Do **not** use these methods to attack real systems.  
-If new vulnerabilities are found, follow responsible disclosure guidelines.
 
 ---
 
