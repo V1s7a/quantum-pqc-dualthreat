@@ -8,7 +8,3 @@ __pycache__/
 *.so
 *.o
 *.a
-reports/*.tsv
-reports/*.txt
-reports/*.csv
-reports/*.png
